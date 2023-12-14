@@ -16,3 +16,5 @@
 14) Global space = any code you write which not in fucntion
 15) when you create something inside
     global space they get attached to global object only for var variables not let and const
+
+16) this keyword = it is a special variable created for evry EC , so it takes value of the owner of function in which this keyword is called.
