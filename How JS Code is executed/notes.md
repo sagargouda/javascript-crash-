@@ -36,4 +36,4 @@
     i) call stack = EC
     ii) Heap = where our objects are stored
 
-19) but in this keyword both this keyword and arguments object aren't present
+19) but in arrow function both this keyword and arguments object aren't present

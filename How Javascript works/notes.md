@@ -10,7 +10,7 @@
 
 6) HIGH_LEVEL = low level languages like c needs developer to manage resources like memory management but js don't need to worry about that
 
-7) Garbage-collection = so js has this special power where the runtime environment identifies and fress up memory ovvupied by unused objects so it helps manage memory efficiently
+7) Garbage-collection = so js has this special power where the runtime environment identifies and freess up memory occupied by unused objects so it helps manage memory efficiently
 
 8) Interpreted or JIT = machine code is 0,1 and human code is what we write and more on this in next commit
 
